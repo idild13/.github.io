@@ -1,2 +1,2 @@
-# idildorak.github.io
+# Idil Dorak
 Data Analytics Portfolio
